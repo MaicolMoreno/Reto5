@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ciclo3.reto3.Reto3ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.543 s - in ciclo3.reto3.Reto3ApplicationTests
